@@ -1,0 +1,73 @@
+body {
+    color: #0a0a0a;
+    background: #c98455;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.625em;
+    position: relative;
+  }
+  
+  ol, ul {
+      font-size: large;
+    margin: 5px;
+    padding: 0;
+    list-style: block;
+  }
+  
+  select {
+    display: block;
+  }
+  h1, h2, h3,
+  h4, h5, h6 {
+    font-family: "Poppins", 'Arial Narrow', Arial, sans-serif;
+    color: #000000;
+    line-height: 1.2em !important;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-weight: 600;
+  }
+  
+  .h1, .h2, .h3,
+  .h4, .h5, .h6 {
+    margin-bottom: 20px;
+    margin-top: 30px;
+    font-family: Helvetica;
+    font-weight: 600;
+    color: #0c0c0c;
+  }
+  
+  h1, .h1 {
+    font-size: 36px;
+  }
+  
+  h2, .h2 {
+    font-size: 30px;
+  }
+  
+  h3, .h3 {
+    font-size: 24px;
+  }
+  
+  h4, .h4 {
+    font-size: 18px;
+  }
+  
+  h5, .h5 {
+    font-size: 16px;
+  }
+  
+  h6, .h6 {
+    font-size: 14px;
+    color: #222222;
+  }
+  
+  td, th {
+    border-radius: 0px;
+  }
+  img {
+      padding: 0;
+      display: block;
+      margin: 0;
+      border: 0;
+  }
